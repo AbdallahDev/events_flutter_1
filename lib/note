@@ -1,0 +1,7 @@
+This file contains notes needed for the project.
+
+The cmd command need to make the sha-1:
+keytool -list -v -keystore C:\Users\abdallah.sarayrah\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
+
+To Do Steps:
+- I want to register the FCM token in the database when the app installed on the device.
